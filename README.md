@@ -13,11 +13,6 @@
 - CompTIA Security+ Certification
 
 
-## Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-
- kotlin android kotlin react IntelliJ IDEA logo figma git 
 <!--
 **ImRadegast/ImRadegast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
