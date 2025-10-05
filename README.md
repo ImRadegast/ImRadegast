@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm <a link="">Dymitri Chabert</a>
+
+☕ Thank you for coming to my space.
+
+🌱 I’m currently learning Cybersecurity, Linux, Python, Automation, Drawing, Snowboarding.
+
+💞️ I created cybersecurity portfolio. Please find it here.
+
+✅ Passed Google Certified: Google Cybersecurity Professional
+
 
 <!--
 **ImRadegast/ImRadegast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
