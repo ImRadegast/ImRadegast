@@ -4,7 +4,7 @@
 
 🌱 **I’m currently learning Cybersecurity, Linux, Python, Automation, Drawing, Snowboarding.**
 
-💞️ **I created cybersecurity portfolio. Please find it [here](https://github.com/ImRadegast/ImRadegast_Cybersecurity_Portfolio).**
+💞️ **I created a cybersecurity portfolio. Please find it [here](https://github.com/ImRadegast/ImRadegast_Cybersecurity_Portfolio).**
 
 ✅ **Passed Google Certified: Google Cybersecurity Professional**
 
