@@ -13,7 +13,7 @@
 🎯 Targeting :
 
 - CompTIA Security+ Certification
-- 1200+ point in RootME
+- 1200+ point in RootME CTF
 
 
 <!--
