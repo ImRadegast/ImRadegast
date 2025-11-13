@@ -6,6 +6,8 @@
 
 💞️ **I created a cybersecurity portfolio. Please find it [here](https://github.com/ImRadegast/ImRadegast_Cybersecurity_Portfolio).**
 
+🤖 ** You can also check my Rootme account [here](https://www.root-me.org/Radanya)
+
 ✅ **Passed Google Certified: Google Cybersecurity Professional**
 
 🎯 Targeting :
