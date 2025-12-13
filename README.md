@@ -15,6 +15,7 @@
 - CompTIA Security+ Certification
 - 1200+ point in RootME CTF
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ImRadegast)
 
 <!--
 **ImRadegast/ImRadegast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
